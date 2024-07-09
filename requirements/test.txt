@@ -2,3 +2,4 @@ PyYAML>=3.10
 pytest
 pytest-cov
 coverage
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
