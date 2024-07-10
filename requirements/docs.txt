@@ -3,3 +3,4 @@ git+https://github.com/facelessuser/pymdown-lexers.git
 mkdocs-git-revision-date-localized-plugin
 mkdocs-minify-plugin
 pyspelling
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
